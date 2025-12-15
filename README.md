@@ -1,2 +1,2 @@
-## Economic Research Lab
+## Economics Research
 This repository contains my personal code for economic research projects. I am a Research Assistant at the [UC San Diego Economics Research Lab](https://economics.ucsd.edu/undergraduate-program/resources/undergraduate-graduate-research-lab/index.html), supervised by PhD students. I joined the Lab in Fall 2024, and as of Winter 2025, I am also a Research Assistant in the [Department of Economics](https://economics.ucsd.edu/). 
